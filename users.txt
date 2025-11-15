@@ -1,1 +1,2 @@
-alice,$2b$12$qS2NDSTnWTLQl/xlR8vEpuZFGuJdyLDWxPc/7fv4R7sNfp06geRdu,admin
+alice,$2b$12$qS2NDSTnWTLQl/xlR8vEpuZFGuJdyLDWxPc/7fv4R7sNfp06geRdu,adminbob,$2b$12$zj5O4NCBqBCWOgbiXSl2ieu0Y6P47z1lAWNIDClGmaxPbqbtgFqZe,analyst
+Carl,$2b$12$1naubu8Wwkzf/.drabWH/uf43nvXYpB.qTkYcG.NpYxq2T68/Nyhi,user
